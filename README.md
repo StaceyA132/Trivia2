@@ -26,12 +26,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] I was able to add the true or false questions from the api
+- [X] I added a feature where after you click on a answer choice the rest of the answer choices goes gray and youre not able to click 
 
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Youtube: 
 
 ## Notes
 
